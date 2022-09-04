@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Wilmo95 edit
+*.zip
+/img_align_celeba/*
