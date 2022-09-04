@@ -130,4 +130,5 @@ dmypy.json
 
 # Wilmo95 edit
 *.zip
-/img_align_celeba/*
+img_align_celeba/
+.vscode
